@@ -8,4 +8,4 @@ Este documento visa documentar as especificações de sistema XPTO
 -Regra 8234;
 -Regra wxy
 
-#Observação: os protótipo devem seguir documentação acima.***
+#Observação: os protótipo devem seguir documentação acima.*****
