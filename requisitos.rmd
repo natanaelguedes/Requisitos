@@ -1,0 +1,11 @@
+#Documento de requisitos XPTO
+
+Este documento visa documentar as especificações de sistema XPTO
+
+#Regras de negócio  de sistema
+>O sistema deverá seguir as regras:
+-Regra xyz;
+-Regra 8234;
+-Regra wxy
+
+#Observação: os protótipo devem seguir documentação acima.***
